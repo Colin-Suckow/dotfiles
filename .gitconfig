@@ -1,0 +1,5 @@
+[user]
+	email = colin@suckow.dev
+	name = Colin Suckow
+[credential]
+	helper = cache --timeout=3600
